@@ -1,0 +1,16 @@
+.Footer {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  background-color: #111;
+  color: gold;
+  text-align: center;
+  -webkit-text-stroke: 1px coral; /* width and color */
+
+  font-family: sans;
+  color: yellow;
+}
